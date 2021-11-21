@@ -1,0 +1,22 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzDoughboyzzz/Node.js-and-Express.js-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzDoughboyzzz/Node.js-and-Express.js-course/issues"
+  },
+  "homepage": "https://github.com/zzzDoughboyzzz/Node.js-and-Express.js-course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
